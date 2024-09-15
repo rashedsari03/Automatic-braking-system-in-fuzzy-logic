@@ -1,4 +1,5 @@
-[Illustration]([automatic braking system.jpg](https://github.com/rashedsari03/Automatic-braking-system-in-fuzzy-logic/blob/a0910d4807085374ecef95e4b03ece21fac98618/automatic%20braking%20system.jpg))
+![automatic braking system](https://github.com/user-attachments/assets/b98376df-677d-49ff-a30c-ac26fa913b4a)
+
 ---
 
 # Automatic Braking System Using Fuzzy Logic
