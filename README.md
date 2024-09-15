@@ -68,6 +68,7 @@ Once the fuzzy rules are processed, the fuzzy output (e.g., "Strong Brake", "Mod
 Fuzzy logic provides a flexible and reliable approach to building an automatic braking system that can handle real-world uncertainty. By combining sensor inputs with human-like decision-making, the system enhances vehicle safety and reduces the risk of collisions.
 
 ## Libraries and Tools Used
+- **Matlab**
 - **Python**
 - **Fuzzy Logic Toolbox** (for simulation and implementation)
 - **NumPy** (for numerical computations)
